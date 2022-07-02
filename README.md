@@ -1,55 +1,24 @@
-# Every-Dollar
-This is a mobile web application where you can manage your budget whereby you have a list of transactions associated with a category, so that users can see how much money they spent and on what they spent their money on.
+# README
 
-## Live Demo
-[Pocket Smith](https://pocket-smith.herokuapp.com/)
+This README would normally document whatever steps are necessary to get the
+application up and running.
 
-### Live Presentation
-[Pocket Smith App video](https://www.loom.com/share/911d132b31c64383b8fcd39512b839b5)
+Things you may want to cover:
 
-## Home Page View
-![](./app/assets/screenshots/CaptureI.PNG)
+* Ruby version
 
-## Test Cases
-![](./app/assets/screenshots/CaptureII.PNG)
+* System dependencies
 
-## Clone Project
-- STEP 1:
-  - git clone `git@github.com:direakanbi/Every-Dollar.git`
-- STEP 2:
-  - `cd Every-Dollar` in your terminal
-- STEP 3:
-  - run `rails server` or `rails s` in your terminal
-- STEP 4:
-  - visit `localhost:3000` on your browser
-> Yeyyy you have the app running **Congratulations** 😅🎉
+* Configuration
 
-## Run test suits
-  > rspec spec
+* Database creation
 
-## Technologies Used
-* Language (Ruby on Rails)
-* PostgreSQL
+* Database initialization
 
-## Installation
-* Ruby
-* Rails
-* Postgresql
+* How to run the test suite
 
-## 👤 Author 
-Dire Akanbi :student: 
-- GitHub: [@direakanbi](https://github.com/direakanbi)
-- Twitter: [@DireAkanbi](https://twitter.com/DireAkanbi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/dire-akanbi/)
+* Services (job queues, cache servers, search engines, etc.)
 
-## Contributing :handshake:
-Contributions, issues, and feature requests are welcome!
+* Deployment instructions
 
-## Show your support
-Give a :star: if you like this project.
-
-## Acknowledgments
-* Original design idea by [Gregoire Vella on Behance](https://www.behance.net/gallery/19759151/Snapscan-iOs-design-and-branding?tracking_source=). Under the [Creative Commons License](https://creativecommons.org/licenses/by-nc/4.0/).
-
-## License :memo:
-This project is [MIT](https://github.com/microverseinc/readme-template/blob/master/MIT.md) licensed
+* ...

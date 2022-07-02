@@ -1,2 +1,0 @@
-class GroupsOperation < ApplicationRecord
-end
